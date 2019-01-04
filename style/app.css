@@ -1,13 +1,17 @@
 #canvas{
     background-color: black;
     height: 100%;
+    width: 100%;
 }
 body{
-    height: 110%;
+    height: 100%;
+    width: 100%;
     overflow: hidden;
-    margin: -10px;
+    margin: 0;
 }
 html{
-    height: 110%;
+    height: 100%;
+    width: 100%;
     overflow: hidden;
+    margin: 0;
 }
