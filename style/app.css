@@ -4,6 +4,7 @@
     width: 100%;
     margin: 0;
     image-rendering: crisp-edges;
+    cursor: none;
 }
 body{
     height: 100%;

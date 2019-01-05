@@ -2,6 +2,10 @@
   <dictionary name="lanesun">
     <words>
       <w>anlfun</w>
+      <w>mousedown</w>
+      <w>mousemove</w>
+      <w>mouseup</w>
+      <w>nosmooth</w>
       <w>onload</w>
       <w>posi</w>
       <w>slic</w>
